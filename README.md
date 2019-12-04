@@ -3,7 +3,7 @@
 Term: Fall 2019
 
 + Team 2
-+ Projec title: "Machine Learning Fairness" Classification 
++ Project title: "Machine Learning Fairness" Classification 
 + Team members
 	+ Chongyu He (ch3379)
 + Project summary: Given some information about a person, your task is to predict if the person's annual income level is greater than 50K$ or not. Rather than purely maximizing prediction accuracy, I would try to maximize accuracy while achieving the fairness requirement. Specifically, my model must follow a relaxed version of demographic parity for the binary sensitive attribute "gender".
