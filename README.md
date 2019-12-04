@@ -3,10 +3,10 @@
 Term: Fall 2019
 
 + Team 2
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: "Machine Learning Fairness" Classification 
 + Team members
 	+ Chongyu He (ch3379)
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
++ Project summary: Given some information about a person, your task is to predict if the person's annual income level is greater than 50K$ or not. 
 + Notations: A=gender, Ŷ=prediction on the income level, Y=ground-truth income level
 + Final Score: Accuracy:= ℙ[Ŷ =Y]   
 	       DDP:= |ℙ[Ŷ =1|A=0]−ℙ[Ŷ =1|A=1]|   
